@@ -1,0 +1,51 @@
+### Eclipse ###
+**/.metadata
+**/bin/
+**/tmp/
+**/*.tmp
+**/*.bak
+**/*.swp
+**/*~.nib
+**/local.properties
+**/.settings/
+**/.loadpath
+**/.recommenders
+
+# External tool builders
+**/.externalToolBuilders/
+
+# Java annotation processor (APT)
+**/.factorypath
+
+# Locally stored "Eclipse launch configurations"
+**/*.launch
+
+# Code Recommenders
+**/.recommenders/
+
+# JDT-specific (Eclipse Java Development Tools)
+**/.classpath
+**/.project
+
+# Annotation Processing
+**/.apt_generated
+
+**/.sts4-cache/
+
+
+### IntelliJ Idea ###
+**/.idea/
+**/*.iml
+**/*.eml
+
+### Dbeaver specific ###
+**/.dbeaver/
+
+### Project specific ###
+**/*.class
+**/*.jar
+**/*.log
+**/*~
+**/*.orig
+**/target/
+**/generated/
